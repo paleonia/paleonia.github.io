@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://paleonia.github.io//sitemap.xml
+Sitemap: https://paleonia.github.io/sitemap.xml
