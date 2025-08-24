@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://ynlee1960.wixsite.com/paleolab'> Seoul National University Vertebrate Paleontology Lab</a>. Undergraduate Researcher. 
-eagletw@yonsei.ac.kr.
+subtitle: <a href='https://ynlee1960.wixsite.com/paleolab'> Seoul National University Vertebrate Paleontology Lab</a>. Undergraduate Researcher. eagletw@yonsei.ac.kr.
 
 profile:
   align: right
