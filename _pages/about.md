@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://ynlee1960.wixsite.com/paleolab'> Seoul National University Vertebrate Paleontology Lab</a>. Undergraduate Researcher. eagletw@yonsei.ac.kr.
+subtitle: <a href='https://ynlee1960.wixsite.com/paleolab'> Seoul National University Vertebrate Paleontology Lab</a>. Undergraduate Researcher. 
+eagletw@yonsei.ac.kr.
 
 profile:
   align: right
@@ -25,6 +26,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+
 
 Hello! My name is Taewoong Yoon, and I am an aspiring researcher in mammalian paleontology. I am fascinated not only by fossils themselves but also by the environments and sedimentary processes that preserve them. 🦴🌍
 
