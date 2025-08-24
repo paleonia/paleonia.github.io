@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Seoul National University Vertebrate Paleontology Lab</a>. undergraduate researcher. eagletw@yonsei.ac.kr.
+subtitle: <a href='#'>Seoul National University Vertebrate Paleontology Lab</a>. Undergraduate Researcher. eagletw@yonsei.ac.kr.
 
 profile:
   align: right
