@@ -10,8 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>B.S. Department of Earth System Sciences, Yonsei University</p>
-    <p>Gwangnaruro 545</p>
-    <p>Gwangjingu, Seoul 04978</p>
+  
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-안녕하세요. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! My name is Taewoong Yoon, and I am an aspiring researcher in mammalian paleontology. I am fascinated not only by fossils themselves but also by the environments and sedimentary processes that preserve them. 🦴🌍
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research experience includes studying Cenozoic fossils from Korea, with a focus on both mammalian teeth and other vertebrate remains. I have worked with X-ray diffraction (crystallography) and gained hands-on experience in field excavations, combining laboratory analysis with fieldwork to better understand the fossilization process. What excites me most is exploring questions like, “Why is this fossil found here, and what does it reveal about past environments?”
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Looking ahead, I hope to contribute to building expertise in mammalian paleontology in Korea, while also sharing knowledge and collaborating internationally to piece together the bigger picture of Earth’s history.
