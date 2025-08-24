@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Seoul National University Vertebrate Paleontology Lab</a>. Bldg #25-1, Rm #510. eagletw@yonsei.ac.kr.
+subtitle: <a href='#'>Seoul National University Vertebrate Paleontology Lab</a>. Bldg "#"25-1, Rm "#"510. eagletw@yonsei.ac.kr.
 
 profile:
   align: right
