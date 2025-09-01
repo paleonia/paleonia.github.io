@@ -1,7 +1,7 @@
 ---
 layout: book-shelf
 title: Freetimes
-permalink: /Freetimes/
+permalink: /books/
 nav: false
 collection: Freetimes
 ---
