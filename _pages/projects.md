@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Activities
-permalink: /Activities/
+title: activities
+permalink: /activities/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
