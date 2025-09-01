@@ -1,5 +1,5 @@
 ---
-layout: Freetime
+layout: book-shelf
 title: Freetimes
 permalink: /Freetimes/
 nav: false
