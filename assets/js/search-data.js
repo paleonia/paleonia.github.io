@@ -428,9 +428,9 @@ ninja.data = [{
           section: "News",},{id: "news-participating-in-gsa-connects-2025-in-san-antonio-to-connect-with-mammal-fossil-experts",
           title: 'Participating in GSA Connects 2025 in San Antonio to connect with mammal fossil...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-ysgs",
+          title: 'YSGS',
+          description: "Geological Enthusiasts in Yonsei Univ!",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
