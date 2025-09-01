@@ -24,11 +24,11 @@ ninja.data = [{
             window.location.href = "/fieldworks/";
           },
         },{id: "nav-activities",
-          title: "Activities",
+          title: "activities",
           description: "A growing collection of your cool projects.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/Activities/";
+            window.location.href = "/activities/";
           },
         },{id: "nav-cv",
           title: "cv",
