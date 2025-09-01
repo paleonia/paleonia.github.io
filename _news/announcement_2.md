@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Participating in The 6th International Symposium on Asian Dinosaurs in Japan(ISAD) 2025 as a poster presentor!
+Participating in The **ISAD 2025** in Japan as a poster presentor!
