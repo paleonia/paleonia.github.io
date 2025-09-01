@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Co-authored paper "A carapace of Pelodiscus cf. P. gracilia (Testudines: Pan-Trionychidae) from the Middle Miocene Hagjeon Formation of Pohang-si, Gyeongsangbuk-do, South Korea" is now published!
+Co-authored paper "A carapace of Pelodiscus cf. P. gracilia ~ " is now published!
