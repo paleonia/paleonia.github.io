@@ -419,14 +419,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-co-authored-paper-a-carapace-of-pelodiscus-cf-p-gracilia-testudines-pan-trionychidae-from-the-middle-miocene-hagjeon-formation-of-pohang-si-gyeongsangbuk-do-south-korea-is-now-published",
+            },},{id: "news-co-authored-paper-a-carapace-of-pelodiscus-cf-p-gracilia-testudines-pan-trionychidae-from-the-middle-miocene-hagjeon-formation-of-pohang-si-gyeongsangbuk-do-south-korea-is-now-published",
           title: 'Co-authored paper “A carapace of Pelodiscus cf. P. gracilia (Testudines: Pan-Trionychidae) from the...',
           description: "",
           section: "News",},{id: "news-participating-in-the-6th-international-symposium-on-asian-dinosaurs-in-japan-isad-2025-as-a-poster-presentor",
           title: 'Participating in The 6th International Symposium on Asian Dinosaurs in Japan(ISAD) 2025 as...',
+          description: "",
+          section: "News",},{id: "news-participating-in-the-geological-society-of-america-gsa-connects-2025-to-connect-with-mammal-fossil-experts",
+          title: 'Participating in The Geological Society of America (GSA) Connects 2025 to connect with...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
