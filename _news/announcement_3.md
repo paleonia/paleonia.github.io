@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Participating in The Geological Society of America (GSA) Connects 2025 to connect with mammal fossil experts!
+Participating in **GSA Connects 2025** in San Antonio to connect with mammal fossil experts!
 
