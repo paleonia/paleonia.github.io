@@ -1,6 +1,6 @@
 ---
 layout: book-shelf
-title: Freetimes
+title: freetimes
 permalink: /books/
 nav: false
 collection: Freetimes
