@@ -412,6 +412,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "fieldworks-national-dinosaur-fossil-excavation-project",
+          title: 'National Dinosaur Fossil Excavation Project',
+          description: "Paleontology Field Worker",
+          section: "Fieldworks",handler: () => {
+              window.location.href = "/fieldworks/nationaldino/";
             },},{id: "news-co-authored-paper-a-carapace-of-pelodiscus-cf-p-gracilia-is-now-published",
           title: 'Co-authored paper “A carapace of Pelodiscus cf. P. gracilia ~ “ is now...',
           description: "",
