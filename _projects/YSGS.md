@@ -1,7 +1,7 @@
 ---
 layout: page
 title: YSGS
-description: Geological Enthusiasts in Yonsei University
+description: Yonsei Society of Geological Scrutiny
 img: assets/img/12.jpg
 importance: 1
 related_publications: true
