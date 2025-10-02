@@ -473,7 +473,7 @@ ninja.data = [{
               window.location.href = "/projects/PSY/";
             },},{id: "projects-ysgs",
           title: 'YSGS',
-          description: "Geological Enthusiasts in Yonsei University",
+          description: "Yonsei Society of Geological Scrutiny",
           section: "Projects",handler: () => {
               window.location.href = "/projects/YSGS/";
             },},{
