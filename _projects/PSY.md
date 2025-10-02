@@ -1,7 +1,7 @@
 ---
 layout: page
-title: PSY(Paleontological Society of Yonsei)
-description: My paleo-friends in Yonsei University
+title: PSY
+description: Paleontological Society of Yonsei
 img: assets/img/3.jpg
 importance: 2
 giscus_comments: true
