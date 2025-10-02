@@ -1,25 +1,17 @@
 ---
 layout: page
 title: YSGS
-description: Geological Enthusiasts in Yonsei Univ!
+description: Geological Enthusiasts in Yonsei University
 img: assets/img/12.jpg
 importance: 1
-category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+YSGS is a dynamic student club at Yonsei University dedicated to exploring the diverse fields of earth science. As an executive member, I’ve had the opportunity to help lead a community passionate about geological inquiry and discovery. Our mission is to promote scientific collaboration and communication among students from various academic backgrounds.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Our activities are designed to go beyond the classroom. We have organized over five field trips across South Korea, allowing members to collaboratively explore and analyze geological sites firsthand. Additionally, we hold over 20 seminars where we engage with peers and discuss a wide range of topics, from petrology to paleoclimatology, broadening our collective understanding of Earth systems.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+This experience has not only deepened my own knowledge but has also honed my leadership and organizational skills. Being part of YSGS has been a rewarding journey of interdisciplinary engagement and scientific exploration, reinforcing my passion for earth science
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
