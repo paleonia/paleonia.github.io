@@ -7,18 +7,11 @@ importance: 1
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Our work with the National Dinosaur Fossil Excavation Project begins deep within the geological strata of Daereuk-do. This ongoing program brings together a dedicated team of students, researchers, and institutions to systematically excavate vertebrate fossils, meticulously documenting them while preserving their precise geological context. This rigorous process is essential for understanding the conditions under which these ancient remains were preserved.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+In August 2024, I joined this initiative as a fieldworker, contributing directly to the project's core research. My primary tasks included creating a 10-meter columnar section of the fossil-bearing site and taking detailed measurements of over 20 fossil specimens in situ. These precise field records are critical, serving as foundational data that will support future analyses on fossilization processes and the paleoenvironmental reconstruction of the region.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+This experience provided a valuable opportunity to apply principles of field geology and paleontology in a professional setting. Contributing to a long-term, government-funded effort to expand our knowledge of Korea's deep-time biodiversity has been both scientifically rewarding and a deeply motivating endeavor.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
