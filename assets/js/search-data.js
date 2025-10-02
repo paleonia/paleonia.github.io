@@ -466,9 +466,9 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "projects-psy-paleontological-society-of-yonsei",
-          title: 'PSY(Paleontological Society of Yonsei)',
-          description: "My paleo-friends in Yonsei University",
+            },},{id: "projects-psy",
+          title: 'PSY',
+          description: "Paleontological Society of Yonsei",
           section: "Projects",handler: () => {
               window.location.href = "/projects/PSY/";
             },},{id: "projects-ysgs",
