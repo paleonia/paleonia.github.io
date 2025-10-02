@@ -433,7 +433,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-ysgs",
           title: 'YSGS',
-          description: "Geological Enthusiasts in Yonsei Univ!",
+          description: "Geological Enthusiasts in Yonsei University",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
