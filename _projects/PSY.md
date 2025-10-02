@@ -1,25 +1,23 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: PSY(Paleontological Society of Yonsei)
+description: My paleo-friends in Yonsei University
 img: assets/img/3.jpg
 importance: 2
-category: work
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+I founded and now lead PSY, a student club at Yonsei dedicated to the fascinating world of paleontology. Our mission is to foster a collaborative learning environment and encourage in-depth discussions among students who share a passion for the fossil record.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Since its founding in March 2024, our group of eight students has engaged in over 
+
+20 seminars, covering everything from the fundamentals of Introduction to Paleobiology and the fossil record to specific topics like Vertebrate Paleontology. I’ve also had the opportunity to lead seminars on subjects like mammalian evolution and taphonomy, focusing on how we can interpret fossil preservation processes.
+
+
+Beyond our discussions, we've organized 
+
+four visits to natural history museums and field trips to relevant paleontological sites, bringing our classroom learning to life. My experience with PSY has been an incredibly rewarding way to share my enthusiasm for paleontology and build a community of like-minded researchers.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
