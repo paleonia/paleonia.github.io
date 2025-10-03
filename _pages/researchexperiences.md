@@ -1,10 +1,11 @@
 ---
 layout: page
-title: research experiences
+title: research
 permalink: /researchexperiences/
 description: my research related experiences
 nav: true
 nav_order: 4
+display_categories: [lab, field]
 horizontal: false
 ---
 
