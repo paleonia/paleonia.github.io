@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://ynlee1960.wixsite.com/paleolab'> Seoul National University Vertebrate Paleontology Lab</a>. Undergraduate Researcher. 
+subtitle: <a href='https://ynlee1960.wixsite.com/paleolab'> Seoul National University Vertebrate Paleontology Lab</a>. Undergraduate Researcher.
 
 profile:
   align: right
   image: Yoon_Taewoong.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>B.S. Department of Earth System Sciences, Yonsei University (Expected February 2026)</p>
+    <p> <a href='https://www.yonsei.ac.kr/'> B.S. Department of Earth System Sciences, Yonsei University (Expected February 2026)</p>
     <p>eagletw@yonsei.ac.kr.</p>
   
 
