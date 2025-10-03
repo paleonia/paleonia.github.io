@@ -417,8 +417,8 @@ ninja.data = [{
           description: "Paleontology Field Worker",
           section: "Fieldworks",handler: () => {
               window.location.href = "/fieldworks/nationaldino/";
-            },},{id: "fieldworks-national-resource-development-specialization-field-program",
-          title: 'National Resource Development Specialization Field Program',
+            },},{id: "fieldworks-structural-geology-field-program",
+          title: 'Structural Geology Field Program',
           description: "Participant",
           section: "Fieldworks",handler: () => {
               window.location.href = "/fieldworks/nationalresource/";
