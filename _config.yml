@@ -144,8 +144,6 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
-  books:
-    output: true
   news:
     defaults:
       layout: post
@@ -153,6 +151,8 @@ collections:
   projects:
     output: true
   fieldworks:
+    output: true
+  research:
     output: true
 
 # -----------------------------------------------------------------------------
