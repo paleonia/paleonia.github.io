@@ -1,7 +1,7 @@
 ---
 layout: page
-title: National Dinosaur Fossil Excavation Project
-description: Paleontology Field Worker
+title: ADA 2025
+description: Asian Dinosaur Association Symposium
 img: assets/img/12.jpg
 importance: 1
 related_publications: true
