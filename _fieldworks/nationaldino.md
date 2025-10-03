@@ -4,7 +4,6 @@ title: National Dinosaur Fossil Excavation Project
 description: Paleontology Field Worker
 img: assets/img/nd7.jpg
 importance: 1
-related_publications: true
 ---
 
 Our work with the National Dinosaur Fossil Excavation Project begins deep within the geological strata of Daereuk-do. This ongoing program brings together a dedicated team of researchers of Seoul National University Vertebrate Paleontology lab and national institutions to systematically excavate vertebrate fossils, meticulously documenting them while preserving their precise geological context. This rigorous process was essential for understanding where these ancient remains were preserved.
