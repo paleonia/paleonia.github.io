@@ -419,9 +419,14 @@ ninja.data = [{
               window.location.href = "/fieldworks/nationaldino/";
             },},{id: "fieldworks-structural-geology-field-program",
           title: 'Structural Geology Field Program',
-          description: "Participant",
+          description: "Participating Student",
           section: "Fieldworks",handler: () => {
               window.location.href = "/fieldworks/nationalresource/";
+            },},{id: "fieldworks-sedimentary-geology-field-program",
+          title: 'Sedimentary Geology Field Program',
+          description: "Participating Student",
+          section: "Fieldworks",handler: () => {
+              window.location.href = "/fieldworks/nationalresource2/";
             },},{id: "news-co-authored-paper-a-carapace-of-pelodiscus-cf-p-gracilia-is-now-published",
           title: 'Co-authored paper “A carapace of Pelodiscus cf. P. gracilia ~ “ is now...',
           description: "",
