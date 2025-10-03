@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-fieldworks",
           title: "fieldworks",
-          description: "A growing collection of your cool projects.",
+          description: "Fieldwork is the lifeblood of our research",
           section: "Navigation",
           handler: () => {
             window.location.href = "/fieldworks/";
@@ -424,7 +424,7 @@ ninja.data = [{
               window.location.href = "/fieldworks/nationalresource/";
             },},{id: "fieldworks-sedimentary-geology-field-program",
           title: 'Sedimentary Geology Field Program',
-          description: "Participant",
+          description: "Participating Student",
           section: "Fieldworks",handler: () => {
               window.location.href = "/fieldworks/nationalresource2/";
             },},{id: "news-co-authored-paper-a-carapace-of-pelodiscus-cf-p-gracilia-is-now-published",
