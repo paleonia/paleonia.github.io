@@ -1,63 +1,32 @@
 ---
 layout: page
-title: National Resource Development Specialization Field Program
+title: Structural Geology Field Program
 description: Participant
-img: assets/img/12.jpg
+img: assets/img/st3.jpg
 importance: 1
 related_publications: true
 ---
 
-A national geoscience training program focused on structural and sedimentary geology, this program brings together a select group of participants to document Korea's natural resources and geological heritage. Our work is to apply academic knowledge to real-world geological challenges and contribute to a long-term, government-funded effort to map the nation's subsurface.
+A national geoscience training program focused on structural  geology, this program brings together a select group of participants to document Korea's natural resources and geological heritage. Our work is to apply academic knowledge to real-world geological challenges and contribute to a long-term, government-funded effort to map the nation's subsurface.
 
-In the latter half of 2024, I participated in this program, engaging in two distinct field camps. The first was a 10-day field camp in Taebaek, Gangwon-do, where I conducted hands-on structural analysis and produced a geological map of a more than 10 km$^2$ area in Wonju. This intensive training provided a practical understanding of how geological structures influence resource distribution.
+In the latter half of 2024, I participated in this program, The first was a 10-day field camp in Taebaek, Gangwon-do, where I conducted hands-on structural analysis and produced a geological map of a more than 10 km$^2$ area in Wonju.
 
-Following this, I joined a 3-day field camp in Jinju, Gyeongsangnam-do. Here, I focused on studying sedimentary environments and contributed to the documentation of dinosaur footprint fossils in the area. This work underscored the interdisciplinary nature of resource development, connecting stratigraphy and sedimentology to paleontology and environmental conservation.
-
-This fieldwork was a transformative experience, offering an invaluable opportunity to merge theoretical knowledge with practical application. It solidified my commitment to a career in geoscience and demonstrated the critical role of field research in advancing national resource development and preservation.
+This fieldwork was a transformative experience, offering an invaluable opportunity to merge theoretical knowledge with practical application. It solidified my commitment to a career in geoscience and demonstrated the geological field map to confirm the structure in Wondong area.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/st1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/st2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/st4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Structural field Trip to Gangwon-do and my brief geological field map for the research area.
 </div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
 
 {% raw %}
 
