@@ -422,11 +422,6 @@ ninja.data = [{
           description: "Participant",
           section: "Fieldworks",handler: () => {
               window.location.href = "/fieldworks/nationalresource/";
-            },},{id: "fieldworks-sedimentary-geology-field-program",
-          title: 'Sedimentary Geology Field Program',
-          description: "Participant",
-          section: "Fieldworks",handler: () => {
-              window.location.href = "/fieldworks/nationalresource2/";
             },},{id: "news-co-authored-paper-a-carapace-of-pelodiscus-cf-p-gracilia-is-now-published",
           title: 'Co-authored paper “A carapace of Pelodiscus cf. P. gracilia ~ “ is now...',
           description: "",
