@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Sedimentary Geology Field Program
-description: Participant
+description: Participating Student
 img: assets/img/sd3.jpg
-importance: 1
-related_publications: true
+importance: 3
+related_publications: false
 ---
 
 In December 2024, I participated in a 3-day field program in Jinju, Gyeongsangnam-do, focusing on sedimentary environments. It was the Second part of my participation in National Resource Development Program.
@@ -27,16 +27,5 @@ This short but intensive experience strengthened my field skills and deepened my
 </div>
 
 {% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
 
 {% endraw %}
