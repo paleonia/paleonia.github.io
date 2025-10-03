@@ -2,7 +2,7 @@
 layout: page
 title: Sedimentary Geology Field Program
 description: Participating Student
-img: assets/img/sd3.jpg
+img: assets/img/sd2.jpg
 importance: 3
 related_publications: false
 ---
