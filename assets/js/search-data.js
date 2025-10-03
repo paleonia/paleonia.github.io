@@ -481,9 +481,9 @@ ninja.data = [{
           description: "Yonsei Society of Geological Scrutiny",
           section: "Projects",handler: () => {
               window.location.href = "/projects/YSGS/";
-            },},{id: "researchexperiences-national-dinosaur-fossil-excavation-project",
-          title: 'National Dinosaur Fossil Excavation Project',
-          description: "Paleontology Field Worker",
+            },},{id: "researchexperiences-ada-2025",
+          title: 'ADA 2025',
+          description: "Asian Dinosaur Association Symposium",
           section: "Researchexperiences",handler: () => {
               window.location.href = "/researchexperiences/post/";
             },},{
