@@ -26,8 +26,10 @@ This experience provided a valuable opportunity to apply principles of field geo
 </div>
 <div class="caption">
      It was a typical hot Korean summer reaching more than 100°F, we went through the almost deserted islands via boat to find fossils.
+</div>
 
 However, our hard work paid off when we found vertebrate fossils showing their forms inside the mudstone layers.
+
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
@@ -44,16 +46,5 @@ However, our hard work paid off when we found vertebrate fossils showing their f
 The national excavation project is now underway by our submitted reports of fossils, I would not say it was easy but it was rewarding!
 
 {% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
 
 {% endraw %}
