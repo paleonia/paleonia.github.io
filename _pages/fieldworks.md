@@ -2,7 +2,7 @@
 layout: page
 title: fieldworks
 permalink: /fieldworks/
-description: A growing collection of your cool projects.
+description: Fieldwork is the lifeblood of our research
 nav: true
 nav_order: 3
 horizontal: false
