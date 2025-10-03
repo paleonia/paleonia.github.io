@@ -4,7 +4,7 @@ title: Structural Geology Field Program
 description: Participating Student
 img: assets/img/st2.jpg
 importance: 2
-related_publications: true
+related_publications: false
 ---
 
 A national geoscience training program focused on structural  geology, this program brings together a select group of participants to document Korea's natural resources and geological heritage. Our work is to apply academic knowledge to real-world geological challenges and contribute to a long-term, government-funded effort to map the nation's subsurface.
