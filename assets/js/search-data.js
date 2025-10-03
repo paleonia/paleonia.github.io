@@ -23,19 +23,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/fieldworks/";
           },
+        },{id: "nav-research",
+          title: "research",
+          description: "my research related experiences",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/researchexperiences/";
+          },
         },{id: "nav-activities",
           title: "activities",
           description: "A growing collection of your cool projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/activities/";
-          },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
           },
         },{id: "dropdown-freetimes",
               title: "Freetimes",
@@ -476,6 +476,11 @@ ninja.data = [{
           description: "Yonsei Society of Geological Scrutiny",
           section: "Projects",handler: () => {
               window.location.href = "/projects/YSGS/";
+            },},{id: "researchexperiences-national-dinosaur-fossil-excavation-project",
+          title: 'National Dinosaur Fossil Excavation Project',
+          description: "Paleontology Field Worker",
+          section: "Researchexperiences",handler: () => {
+              window.location.href = "/researchexperiences/post/";
             },},{
         id: 'social-email',
         title: 'email',
