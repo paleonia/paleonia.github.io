@@ -148,6 +148,8 @@ collections:
     defaults:
       layout: post
     output: true
+  books:
+    output: true
   projects:
     output: true
   fieldworks:
