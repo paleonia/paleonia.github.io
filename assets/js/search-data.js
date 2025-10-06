@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/activities/";
           },
+        },{id: "nav-freetimes",
+          title: "freetimes",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/freetimes-page/";
+          },
         },{id: "dropdown-freetimes",
               title: "Freetimes",
               description: "",
