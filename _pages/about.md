@@ -9,7 +9,7 @@ profile:
   image: Yoon_Taewoong.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> <a href='https://www.yonsei.ac.kr/'> B.S. Department of Earth System Sciences, Yonsei University (Expected February 2026)</p>
+    <p> B.S. Department of Earth System Sciences, <a href='https://www.yonsei.ac.kr/'>Yonsei University</a> (Expected February 2026)</p>
     <p>eagletw@yonsei.ac.kr.</p>
   
 
