@@ -25,7 +25,7 @@ I also love watching every kind of sport. I’m an enthusiastic fan of the NC Di
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/fr1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/fr2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/fr4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
