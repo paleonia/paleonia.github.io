@@ -4,7 +4,7 @@ title: YSGS
 description: Yonsei Society of Geological Scrutiny
 img: assets/img/ys1.jpg
 importance: 1
-Category: Schoolclub
+category: Schoolclub
 related_publications: false
 ---
 
