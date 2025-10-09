@@ -504,6 +504,11 @@ ninja.data = [{
           description: "Asian Dinosaur Association Symposium-Poster Presenter",
           section: "Researchexperiences",handler: () => {
               window.location.href = "/researchexperiences/ada/";
+            },},{id: "researchexperiences-crystallography-lab",
+          title: 'Crystallography Lab',
+          description: "Undergraduate Researcher",
+          section: "Researchexperiences",handler: () => {
+              window.location.href = "/researchexperiences/crystallography/";
             },},{
         id: 'social-email',
         title: 'email',
