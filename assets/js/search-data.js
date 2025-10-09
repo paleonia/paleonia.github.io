@@ -79,6 +79,11 @@ ninja.data = [{
           description: "Undergraduate Researcher",
           section: "Researchexperiences",handler: () => {
               window.location.href = "/researchexperiences/crystallography/";
+            },},{id: "researchexperiences-vertebrate-paleontology-lab",
+          title: 'Vertebrate Paleontology Lab',
+          description: "Undergraduate Researcher",
+          section: "Researchexperiences",handler: () => {
+              window.location.href = "/researchexperiences/paleolab/";
             },},{
         id: 'social-email',
         title: 'email',
