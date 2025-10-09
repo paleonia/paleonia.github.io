@@ -7,4 +7,5 @@ dropdown: true
 children:
   - title: Freetimes
     permalink: /Freetimes/
+search_exclude:true
 ---
