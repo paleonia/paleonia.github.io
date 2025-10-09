@@ -433,8 +433,8 @@ ninja.data = [{
           description: "Participating Student",
           section: "Fieldworks",handler: () => {
               window.location.href = "/fieldworks/nationalresource/";
-            },},{id: "fieldworks-sedimentary-geology-field-program",
-          title: 'Sedimentary Geology Field Program',
+            },},{id: "fieldworks-national-sedimentary-geology-education-program",
+          title: 'National Sedimentary Geology Education Program',
           description: "Participating Student",
           section: "Fieldworks",handler: () => {
               window.location.href = "/fieldworks/nationalresource2/";
