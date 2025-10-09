@@ -19,7 +19,7 @@ Through these projects, I have gained hands-on experience in fossil preparation 
     </div>
 </div>
 
-Working with Professor Lee has been an inspiring experience. I first encountered him on the TV program "Land of Dinosaurs" when I was 11 years old, which sparked my dream of pursuing paleontology. Learning from him has been deeply meaningful. His profound insight into both fossils and the history of life has shaped the way I view paleontology, not merely as the study of ancient remains but as a way to understand the long and complex story of Earth itself.
+<br>Working with Professor Lee has been an inspiring experience. I first encountered him on the TV program "Land of Dinosaurs" when I was 11 years old, which sparked my dream of pursuing paleontology. Learning from him has been deeply meaningful. His profound insight into both fossils and the history of life has shaped the way I view paleontology, not merely as the study of ancient remains but as a way to understand the long and complex story of Earth itself.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
