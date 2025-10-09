@@ -7,7 +7,7 @@ importance: 1
 related_publications: false
 ---
 
-In September 2025, I attended ISAD 2025 at Fukui Prefectural University, Japan.  It was an amazing opportunity to learn the latest research techniques in paleontology and discuss topics on paleoenvironments and mammalian evolution with researchers from across Asia.  The experience greatly broadened my perspective and deepened my enthusiasm for fossil research.  
+In September 2025, I attended ADA 2025 at Fukui Prefectural University, Japan.  It was an amazing opportunity to learn the latest research techniques in paleontology and discuss topics on paleoenvironments and mammalian evolution with researchers from across Asia.  The experience greatly broadened my perspective and deepened my enthusiasm for fossil research.  
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -24,7 +24,7 @@ In September 2025, I attended ISAD 2025 at Fukui Prefectural University, Japan. 
    Photos we took at fukui also with Professor Philip J. Currie, We also saw some astounding fossil samples.
 </div>
 
-The highlight of ISAD 2025 was presenting my poster on an Eulipotyphlan molar from the Miocene Bukpyeong Formation. Sharing my findings and exchanging feedback with other researchers made me realize how meaningful it is to take part in the scientific community as a researcher.  It was both inspiring and motivating for my future studies in paleontology.  
+The personal highlight of ADA 2025 was presenting my poster on an Eulipotyphlan molar from the Miocene Bukpyeong Formation. Sharing my findings and exchanging feedback with other researchers made me realize how meaningful it is to take part in the scientific community as a researcher.  It was both inspiring and motivating for my future studies in paleontology.  
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
