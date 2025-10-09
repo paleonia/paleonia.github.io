@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /researchexperiences/
-description: my research related experiences
+description: My research related experiences
 nav: true
 nav_order: 4
 horizontal: false
