@@ -46,7 +46,7 @@ ninja.data = [{
           },
         },{id: "post-freetimes",
         
-          title: "freetimes",
+          title: "Freetimes",
         
         description: "",
         section: "Posts",
