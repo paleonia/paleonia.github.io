@@ -44,14 +44,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/freetimes/";
           },
-        },{id: "dropdown-freetimes",
-              title: "Freetimes",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/Freetimes/";
-              },
-            },{id: "post-freetimes",
+        },{id: "post-freetimes",
         
           title: "Freetimes",
         
