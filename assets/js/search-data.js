@@ -51,7 +51,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/Freetimes/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-freetimes",
+        
+          title: "Freetimes",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/freetimes/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -490,9 +501,9 @@ ninja.data = [{
               window.location.href = "/projects/YSGS/";
             },},{id: "researchexperiences-ada-2025",
           title: 'ADA 2025',
-          description: "Asian Dinosaur Association Symposium",
+          description: "Asian Dinosaur Association Symposium-Poster Presenter",
           section: "Researchexperiences",handler: () => {
-              window.location.href = "/researchexperiences/post/";
+              window.location.href = "/researchexperiences/ada/";
             },},{
         id: 'social-email',
         title: 'email',
