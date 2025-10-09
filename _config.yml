@@ -230,11 +230,11 @@ defaults:
   - scope:
       path: "_posts"
     values:
-      search_exclude: true
+      sitemap: false
   - scope:
       path: "_books"
     values:
-      search_exclude: true
+      sitemap: false
 
 sass:
   style: compressed
