@@ -418,7 +418,12 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "fieldworks-national-dinosaur-fossil-excavation-project",
+      },{id: "books-",
+          title: '',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_godfather/";
+            },},{id: "fieldworks-national-dinosaur-fossil-excavation-project",
           title: 'National Dinosaur Fossil Excavation Project',
           description: "Paleontology Field Worker",
           section: "Fieldworks",handler: () => {
