@@ -454,27 +454,7 @@ ninja.data = [{
           section: "News",},{id: "news-participating-in-gsa-connects-2025-in-san-antonio-to-connect-with-mammal-fossil-experts",
           title: 'Participating in GSA Connects 2025 in San Antonio to connect with mammal fossil...',
           description: "",
-          section: "News",},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
-            },},{id: "projects-psy",
+          section: "News",},{id: "projects-psy",
           title: 'PSY',
           description: "Paleontological Society of Yonsei",
           section: "Projects",handler: () => {
