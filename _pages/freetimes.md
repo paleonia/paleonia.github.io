@@ -1,8 +1,7 @@
 ---
 layout: redirect
 title: "freetimes"
-permalink: /freetimes-page/
-redirect_to: /freetimes/
+permalink: /freetimes/
 nav: true
 nav_order: 7
 ---
