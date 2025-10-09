@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Freetimes"
+title: "freetimes"
 permalink: /freetimes/
 date: 2025-10-07
 author: paleonia
