@@ -13,6 +13,7 @@ Our activities are designed to go beyond the classroom. We have organized over f
 
 You can watch some of our seminars in our youtube channel!(Only viewable with following links)
 <a href='https://www.youtube.com/playlist?list=PL5JU1N4e0-mq4tNKMKWoyYfHgdTYLVmaN'> 24-1 Seminars </a>
+
 <a href='https://www.youtube.com/playlist?list=PL5JU1N4e0-mosmN4c3SHE3W6Wbg5gWm8D'> 24-2 Seminars </a> 
 
 <div class="row">
