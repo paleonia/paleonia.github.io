@@ -647,3 +647,11 @@ jsonresume:
   - languages
   - interests
   - references
+  
+search:
+  exclude:
+    - _pages/dropdown.md
+    - _pages/post.md
+    - _books/
+    - _news/
+    - _data/socials.yml
