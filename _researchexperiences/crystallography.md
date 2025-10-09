@@ -3,7 +3,7 @@ layout: page
 title: Crystallography Lab
 description: Undergraduate Researcher
 img: assets/img/cry1.jpg
-importance: 2
+importance: 3
 related_publications: false
 ---
 
