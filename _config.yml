@@ -228,17 +228,20 @@ defaults:
     values:
       sitemap: false
   - scope:
-      path: "_posts"
+      path: ""
+      type: "posts"
     values:
       sitemap: false
       search_exclude: true
   - scope:
-      path: "_books"
+      path: ""
+      type: "books"
     values:
       sitemap: false
       search_exclude: true
   - scope:
-      path: "_news"
+      path: ""
+      type: "news"
     values:
       sitemap: false
       search_exclude: true
