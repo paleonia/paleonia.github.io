@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sedimentary Geology Field Program
+title: National Sedimentary Geology Education Program
 description: Participating Student
 img: assets/img/sd2.jpg
 importance: 3
