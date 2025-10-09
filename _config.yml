@@ -227,6 +227,14 @@ defaults:
       path: "assets"
     values:
       sitemap: false
+  - scope:
+      path: "_posts"
+    values:
+      search_exclude: true
+  - scope:
+      path: "_books"
+    values:
+      search_exclude: true
 
 sass:
   style: compressed
@@ -647,9 +655,6 @@ jsonresume:
   - languages
   - interests
   - references
+
   
-defaults:
-  - scope:
-      path: "_posts"
-    values:
-      search_exclude: true
+      
