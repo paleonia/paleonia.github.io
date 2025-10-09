@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Structural Geology Field Program
+title: National Structural Geology Training Program
 description: Participating Student
 img: assets/img/st2.jpg
 importance: 2
