@@ -231,14 +231,17 @@ defaults:
       path: "_posts"
     values:
       sitemap: false
+      search_exclude: true
   - scope:
       path: "_books"
     values:
       sitemap: false
+      search_exclude: true
   - scope:
       path: "_news"
     values:
       sitemap: false
+      search_exclude: true
 
 sass:
   style: compressed
