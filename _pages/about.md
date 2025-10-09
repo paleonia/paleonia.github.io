@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> B.S. Department of Earth System Sciences, <a href='https://www.yonsei.ac.kr/'>Yonsei University</a> (Expected February 2026)</p>
-    <p>eagletw@yonsei.ac.kr.</p>
+    <p>eagletw@yonsei.ac.kr</p>
   
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
