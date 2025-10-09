@@ -27,10 +27,10 @@ Our activities are designed to go beyond the classroom. We have organized over f
 </div>
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/ys5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/ys7.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
