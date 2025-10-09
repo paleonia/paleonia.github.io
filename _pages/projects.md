@@ -2,7 +2,7 @@
 layout: page
 title: activities
 permalink: /activities/
-description: A growing collection of your cool projects.
+description: A growing collection of my activities.
 nav: true
 nav_order: 5
 horizontal: false
