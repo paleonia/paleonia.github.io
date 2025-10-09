@@ -149,7 +149,7 @@ collections:
       layout: post
     output: true
   books:
-    output: true
+    output: false
   projects:
     output: true
   fieldworks:
