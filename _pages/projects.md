@@ -5,6 +5,7 @@ permalink: /activities/
 description: A growing collection of my activities.
 nav: true
 nav_order: 5
+display_categories: Schoolclub
 horizontal: false
 ---
 
