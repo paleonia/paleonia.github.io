@@ -77,7 +77,7 @@ ninja.data = [
           {% endif %}
         },
       },
-    {%- endunless -%}
+      {%- endunless -%}
     {%- endfor -%}
   {%- endif -%}
   {%- for collection in site.collections -%}
