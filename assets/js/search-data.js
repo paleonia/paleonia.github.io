@@ -42,7 +42,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/freetimes-page/";
+            window.location.href = "/freetimes/";
           },
         },{id: "dropdown-freetimes",
               title: "Freetimes",
