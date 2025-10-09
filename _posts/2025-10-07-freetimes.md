@@ -19,6 +19,7 @@ In my free time, I enjoy immersing myself in music. I love both listening to and
     </div>
 </div>
 
+""
 
 I also love watching every kind of sport. I’m an enthusiastic fan of the NC Dinos, the Korean baseball team, and I enjoy playing racket sports like table tennis, tennis, and pickleball. Another part of my free time is spent sharing little moments of joy with friends—showing them simple magic tricks or cooking meals for them.
 
