@@ -12,6 +12,7 @@ YSGS is a dynamic student club at Yonsei University dedicated to exploring the d
 Our activities are designed to go beyond the classroom. We have organized over five field trips across South Korea, allowing members to collaboratively explore and analyze geological sites firsthand. Additionally, we hold over 20 seminars where we engage with peers and discuss a wide range of topics, from petrology to paleoclimatology, broadening our collective understanding of Earth systems.
 
 You can watch some of our seminars in our youtube channel!(Only viewable with following links)
+
 <a href='https://www.youtube.com/playlist?list=PL5JU1N4e0-mq4tNKMKWoyYfHgdTYLVmaN'> 24-1 Seminars </a>
 
 <a href='https://www.youtube.com/playlist?list=PL5JU1N4e0-mosmN4c3SHE3W6Wbg5gWm8D'> 24-2 Seminars </a> 
