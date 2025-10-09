@@ -9,7 +9,7 @@ related_publications: false
 
 In December 2024, I participated in a 3-day field program in Jinju, Gyeongsangnam-do, focusing on sedimentary environments. It was the Second part of my participation in National Resource Development Program.
 During this training, I studied facies models and observed sedimentary structures directly in the field. One of the highlights was documenting the famous dinosaur footprint sites, which provided insight into how paleoenvironments can be reconstructed from trace fossils.  
-This short but intensive experience strengthened my field skills and deepened my interest in connecting sedimentology with vertebrate paleontology. 
+<br>This short but intensive experience strengthened my field skills and deepened my interest in connecting sedimentology with vertebrate paleontology. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
