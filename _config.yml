@@ -648,10 +648,8 @@ jsonresume:
   - interests
   - references
   
-search:
-  exclude:
-    - _pages/dropdown.md
-    - _pages/post.md
-    - _books/
-    - _news/
-    - _data/socials.yml
+defaults:
+  - scope:
+      path: "_posts"
+    values:
+      search_exclude: true
