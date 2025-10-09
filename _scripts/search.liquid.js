@@ -77,6 +77,7 @@ ninja.data = [
           {% endif %}
         },
       },
+    {%- endunless -%}
     {%- endfor -%}
   {%- endif -%}
   {%- for collection in site.collections -%}
@@ -99,6 +100,7 @@ ninja.data = [
             },
           {%- endunless -%}
         },
+        {%- endunless -%}
       {%- endfor -%}
     {%- endif -%}
   {%- endfor -%}
