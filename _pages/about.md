@@ -28,7 +28,7 @@ latest_posts:
 
 
 
-Hello! My name is Taewoong Yoon, and I am an aspiring researcher in mammalian paleontology. I am fascinated not only by fossils themselves but also by the environments and sedimentary processes that preserve them. 🦴🌍
+<br>Hello! My name is Taewoong Yoon, and I am an aspiring researcher in mammalian paleontology. I am fascinated not only by fossils themselves but also by the environments and sedimentary processes that preserve them. 🦴🌍
 
 My research experience includes studying Cenozoic fossils from Korea, with a focus on both mammalian fossils and other vertebrate remains. I have worked with X-ray diffraction (crystallography) and gained hands-on experience in field excavations, combining laboratory analysis with fieldwork to better understand the fossilization process. What excites me most is exploring questions like, “Why is this fossil found here, and what does it reveal about past environments?”
 
