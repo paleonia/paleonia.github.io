@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://ynlee1960.wixsite.com/paleolab'> Seoul National University Vertebrate Paleontology Lab</a>. Undergraduate Researcher.<br><br><a href='https://drive.google.com/file/d/1NiygLT1Tlk3-XXD7y7CSMCLWYHQuAmv4/view?usp=sharingCV'> CV </a> 
+subtitle: <a href='https://ynlee1960.wixsite.com/paleolab'> Seoul National University Vertebrate Paleontology Lab</a>. Undergraduate Researcher.<br><br><a href='https://drive.google.com/file/d/1NiygLT1Tlk3-XXD7y7CSMCLWYHQuAmv4/view?usp=sharingCV'> CV📄 </a> 
 profile:
   align: right
   image: Yoon_Taewoong.jpg
