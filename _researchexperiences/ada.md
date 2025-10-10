@@ -24,8 +24,8 @@ In September 2025, I attended ADA 2025 at Fukui Prefectural University, Japan.  
    Photos we took at fukui also with Professor Philip J. Currie, We also saw some astounding fossil samples.
 </div>
 
-The personal highlight of ADA 2025 was presenting my poster on an Eulipotyphlan molar from the Miocene Bukpyeong Formation. Sharing my findings and exchanging feedback with other researchers made me realize how meaningful it is to take part in the scientific community as a researcher.  It was both inspiring and motivating for my future studies in paleontology.  
-<br>
+The personal highlight of ADA 2025 was presenting my poster on an Eulipotyphlan molar from the Miocene Bukpyeong Formation. Sharing my findings and exchanging feedback with other researchers made me realize how meaningful it is to take part in the scientific community as a researcher.  It was both inspiring and motivating for my future studies in paleontology. <br>
+
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/ada3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
