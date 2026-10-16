@@ -1,13 +1,13 @@
 ---
 layout: page
-title: ADA 2025
+title: ISAD 2025
 description: Asian Dinosaur Association Symposium-Poster Presenter
 img: assets/img/ada3.jpg
 importance: 1
 related_publications: false
 ---
 
-In September 2025, I attended ADA 2025 at Fukui Prefectural University, Japan.  It was an amazing opportunity to learn the latest research techniques in paleontology and discuss topics on paleoenvironments and mammalian evolution with researchers from across Asia.  The experience greatly broadened my perspective and deepened my enthusiasm for fossil research.  
+In September 2025, I attended ISAD 2025 at Fukui Prefectural University, Japan.  It was an amazing opportunity to learn the latest research techniques in paleontology and discuss topics on paleoenvironments and mammalian evolution with researchers from across Asia.  The experience greatly broadened my perspective and deepened my enthusiasm for fossil research.  
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
