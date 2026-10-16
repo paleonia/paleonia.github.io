@@ -16,8 +16,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/researchexperiences/";
           },
-        },{id: "nav-fieldworks",
-          title: "fieldworks",
+        },{id: "nav-fieldwork",
+          title: "fieldwork",
           description: "Fieldwork is the lifeblood of our research",
           section: "Navigation",
           handler: () => {
