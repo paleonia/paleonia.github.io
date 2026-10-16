@@ -5,5 +5,6 @@ inline: true
 related_posts: false
 ---
 
-Participating in **GSA Connects 2025** in San Antonio to connect with mammal fossil experts!
+I attended **GSA Connects 2025** in San Antonio as a student
+volunteer and participated in paleontology sessions.
 
