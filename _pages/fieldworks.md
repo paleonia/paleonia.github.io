@@ -1,6 +1,6 @@
 ---
 layout: page
-title: fieldworks
+title: fieldwork
 permalink: /fieldworks/
 description: Fieldwork is the lifeblood of our research
 nav: true
