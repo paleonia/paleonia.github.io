@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-[**Download my full CV (PDF)**]({{ '/assets/pdf/Taewoong_Yoon_CV.pdf' | relative_url }})
+[**Download my full CV (PDF)**]({{ '/assets/pdf/CV_Taewoong_Yoon.pdf' | relative_url }})
 
 ## Education
 
