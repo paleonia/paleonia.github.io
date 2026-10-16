@@ -2,34 +2,46 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://ynlee1960.wixsite.com/paleolab'> Seoul National University Vertebrate Paleontology Lab</a>. Undergraduate Researcher.<br><br><a href='https://drive.google.com/file/d/1NiygLT1Tlk3-XXD7y7CSMCLWYHQuAmv4/view?usp=sharingCV'> CV📄 </a> 
+subtitle: >
+  Post-baccalaureate Researcher · Seoul National University
 profile:
   align: right
   image: Yoon_Taewoong.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p> B.S. Department of Earth System Sciences, <a href='https://www.yonsei.ac.kr/'>Yonsei University</a> (Expected February 2026)</p>
-    <p>eagletw@yonsei.ac.kr</p>
-  
+    <p>B.S. in Earth System Sciences<br>
+    Yonsei University, February 2026</p>
+    <p><a href="mailto:eagletw@yonsei.ac.kr">eagletw@yonsei.ac.kr</a></p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: true
+  limit: 5
 
 latest_posts:
   enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
+I am a post-baccalaureate researcher at Seoul National University
+with an interest in mammalian paleontology, particularly Quaternary
+mammals and their responses to environmental change. I received my
+B.S. in Earth System Sciences from Yonsei University in February 2026.
 
+My current work includes a study of a Miocene talpid molar from Korea
+and collaboration with archaeologists at the Yonsei University Museum
+to identify Quaternary mammal fossils from Korean cave sites.
+Working with these understudied collections has strengthened my
+interest in reconstructing past environments and understanding
+changes in mammalian communities.
 
-<br>Hello! My name is Taewoong Yoon, and I am an aspiring researcher in mammalian paleontology. I am fascinated not only by fossils themselves but also by the environments and sedimentary processes that preserve them. 🦴🌍
+I hope to connect fossil identification and comparative morphology
+with quantitative and geochemical approaches to mammalian paleoecology.
+In the long term, I aim to help develop Korea's Quaternary mammal
+record as a resource for research across East Asia.
 
-My research experience includes studying Cenozoic fossils from Korea, with a focus on both mammalian fossils and other vertebrate remains. I have worked with X-ray diffraction (crystallography) and gained hands-on experience in field excavations, combining laboratory analysis with fieldwork to better understand the fossilization process. What excites me most is exploring questions like, “Why is this fossil found here, and what does it reveal about past environments?”
-
-Looking ahead, I hope to contribute to building expertise in mammalian paleontology in Korea, while also sharing knowledge and collaborating internationally to piece together the bigger picture of Earth’s history.
+[Download my CV]({{ '/assets/pdf/Taewoong_Yoon_CV.pdf' | relative_url }})
+·
+[Explore my research]({{ '/researchexperiences/' | relative_url }})
