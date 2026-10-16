@@ -8,14 +8,16 @@ middle_name:
 last_name: Yoon
 contact_note: >
   eagletw@yonsei.ac.kr / ncdinosasd@gmail.com
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+description: >
+  Taewoong Yoon is a post-baccalaureate researcher interested
+  in mammalian paleontology, Quaternary paleoecology, and
+  environmental change in Korea and East Asia.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: paleontology, mammalian paleontology, mammal evolution, paleobiogeography, taphonomy  # add your own keywords or leave empty
-lang: en, kr # the language of your site (for example: en, fr, cn, ru, etc.)
+keywords: Taewoong Yoon, mammalian paleontology, Quaternary mammals, paleoecology, Korea, East Asia, Talpidae
+lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://paleonia.github.io # the base hostname & protocol for your site
@@ -287,8 +289,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Yoon]
+  first_name: [Taewoong, T.]
 
   style: apa
   locale: en
