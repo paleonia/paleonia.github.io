@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
-          title: "publications",
-          description: "Results of my research as a paleontologist",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/publications/";
-          },
-        },{id: "nav-research",
+  },{id: "nav-research",
           title: "research",
           description: "Mammalian paleontology, paleoecology, and the Korean fossil record",
           section: "Navigation",
@@ -29,6 +22,20 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/fieldworks/";
+          },
+        },{id: "nav-publications",
+          title: "publications",
+          description: "Peer-reviewed publications and conference presentations",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/publications/";
+          },
+        },{id: "nav-cv",
+          title: "cv",
+          description: "Education, research experience, and selected honors",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
           },
         },{id: "nav-activities",
           title: "activities",
