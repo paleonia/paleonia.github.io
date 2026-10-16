@@ -4,7 +4,7 @@ title: fieldwork
 permalink: /fieldworks/
 description: Fieldwork is the lifeblood of our research
 nav: true
-nav_order: 3
+nav_order: 5
 horizontal: false
 ---
 
