@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Vertebrate Paleontology Lab
-description: Undergraduate Researcher
+title: Paleontology Lab
+description: Undergraduate and post-baccalaureate research
 img: assets/img/pal5.jpg
 importance: 2
 related_publications: false
