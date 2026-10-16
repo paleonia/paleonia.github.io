@@ -16,19 +16,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-research",
+          title: "research",
+          description: "Mammalian paleontology, paleoecology, and the Korean fossil record",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/researchexperiences/";
+          },
         },{id: "nav-fieldworks",
           title: "fieldworks",
           description: "Fieldwork is the lifeblood of our research",
           section: "Navigation",
           handler: () => {
             window.location.href = "/fieldworks/";
-          },
-        },{id: "nav-research",
-          title: "research",
-          description: "My research related experiences",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/researchexperiences/";
           },
         },{id: "nav-activities",
           title: "activities",
