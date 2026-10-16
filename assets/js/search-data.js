@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/researchexperiences/";
           },
-        },{id: "nav-fieldwork",
-          title: "fieldwork",
-          description: "Fieldwork is the lifeblood of our research",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/fieldworks/";
-          },
         },{id: "nav-publications",
           title: "publications",
           description: "Peer-reviewed publications and conference presentations",
@@ -36,6 +29,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
+          },
+        },{id: "nav-fieldwork",
+          title: "fieldwork",
+          description: "Fieldwork is the lifeblood of our research",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/fieldworks/";
           },
         },{id: "nav-activities",
           title: "activities",
