@@ -5,4 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Participating in The **ISAD 2025** in Japan as a poster presentor!
+I presented a poster on a Miocene eulipotyphlan molar from
+Korea at **ISAD 2025** in Fukui, Japan.
