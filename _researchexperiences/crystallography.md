@@ -7,8 +7,15 @@ importance: 3
 related_publications: false
 ---
 
-From March to June 2024, I conducted an experiment at the Yonsei University Crystallography Lab to analyze the composition of a Mosasauridae tooth fossil using XRD and XRF.  The results revealed that the darker enamel regions were enriched with metallic elements, while the lighter brown areas contained quartz intrusions from the surrounding matrix.  
-These compositional differences reflect the fossil’s geological history and diagenetic processes.  It was a rewarding experience that deepened my understanding of fossilization and taught me how to apply geochemical methods to paleontological materials.  
+From March to May 2024, I worked at the Yonsei University
+Crystallography Lab on compositional variation in a fossil
+mosasaur tooth. The project used X-ray diffraction and X-ray
+fluorescence, with analytical work at the Pohang Accelerator
+Laboratory.
+
+This experience introduced me to the application of analytical
+techniques to fossil materials and strengthened my interest
+in fossil preservation and diagenesis.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
