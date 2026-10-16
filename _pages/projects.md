@@ -4,7 +4,7 @@ title: activities
 permalink: /activities/
 description: A growing collection of my activities.
 nav: true
-nav_order: 5
+nav_order: 6
 display_categories: [Schoolclub]
 horizontal: false
 ---
