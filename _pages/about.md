@@ -42,6 +42,6 @@ with quantitative and geochemical approaches to mammalian paleoecology.
 In the long term, I aim to help develop Korea's Quaternary mammal
 record as a resource for research across East Asia.
 
-[Download my CV]({{ '/assets/pdf/Taewoong_Yoon_CV.pdf' | relative_url }})
+[Download my CV]({{ '/assets/pdf/CV_Taewoong_Yoon.pdf' | relative_url }})
 ·
 [Explore my research]({{ '/researchexperiences/' | relative_url }})
