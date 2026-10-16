@@ -7,8 +7,12 @@ importance: 2
 related_publications: false
 ---
 
-Since June 2024, I have been conducting research at the Vertebrate Paleontology Lab at Seoul National University under the guidance of Professor Yuong-Nam Lee. My projects include two studies: the description of an insectivorous mammal molar from the Miocene Bukpyeong Formation and a study on the softshell turtle Pelodiscus from the Hagjeon Formation. 
-Through these projects, I have gained hands-on experience in fossil preparation and identification, and I have had the opportunity to collaborate with colleagues dedicated to various fields within vertebrate paleontology.
+I joined the Vertebrate Paleontology Lab at Seoul National
+University in June 2024 as an undergraduate researcher and
+continued my research after completing my B.S. in February 2026.
+My work has included a study of a Miocene talpid molar from the
+Bukpyeong Formation and contributions to a published study
+of a softshell turtle from the Hagjeon Formation.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
