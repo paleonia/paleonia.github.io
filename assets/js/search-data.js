@@ -76,8 +76,8 @@ ninja.data = [{
           description: "Yonsei Society of Geological Scrutiny",
           section: "Projects",handler: () => {
               window.location.href = "/projects/YSGS/";
-            },},{id: "researchexperiences-ada-2025",
-          title: 'ADA 2025',
+            },},{id: "researchexperiences-isad-2025",
+          title: 'ISAD 2025',
           description: "Asian Dinosaur Association Symposium-Poster Presenter",
           section: "Researchexperiences",handler: () => {
               window.location.href = "/researchexperiences/ada/";
