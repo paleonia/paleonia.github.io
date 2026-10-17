@@ -26,7 +26,7 @@ latest_posts:
 ---
 
 I am a post-baccalaureate researcher at Seoul National University
-with an interest in mammalian paleontology, particularly Quaternary
+with an interest in mammalian paleontology, particularly Cenozoic
 mammals and their responses to environmental change. I received my
 B.S. in Earth System Sciences from Yonsei University in February 2026.
 
